@@ -1,0 +1,7 @@
+{
+  "name": " Ye Repetitive Content Checker",
+  "description": "An AI-powered tool to check image pairs against YouTube's Repetitive Content policy to ensure high-quality video generation with Veo 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
